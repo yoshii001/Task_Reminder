@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Task Reminder</string>
+    <string name="edit_task">Edit task</string>
+    <string name="Task_Title">Task Title</string>
+    <string name="Enter_Task">Enter Task</string>
+    <string name="Reminder_Date">Reminder Date</string>
+    <string name="Set_Date">Set Date</string>
+    <string name="Reminder_Time">Reminder Time</string>
+    <string name="Set_Time">Set Time</string>
+    <string name="Additional_Note">Additional Note (optional)</string>
+    <string name="Write_Something">Write Something...</string>
+    <string name="Save">Save</string>
+    <string name="Clear">Clear</string>
+
+    <string name="Add_Task">Add Task</string>
+    <string name="Minutes">Minutes</string>
+    <string name="Hours">Hours</string>
+    <string name="Seconds">Seconds</string>
+    <string name="Timer">Timer</string>
+    <string name="settings">settings</string>
+    <string name="clock">clock</string>
+    <string name="pm6">06:30 PM</string>
+    <string name="zero">00:00:00</string>
+    <string name="Delete">Delete</string>
+    <string name="Resume">Resume</string>
+    <string name="Start_Timer">Start Timer</string>
+
+    <string name="taskNav">Task</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="configure">Configure</string>
+    <string name="widget_page">Upcoming Tasks</string>
+    <string name="View_Task">View Task</string>
+
+
+</resources>

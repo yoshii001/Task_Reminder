@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_hint">#807F7F</color>
+    <color name="texttitle">#3A3A3A</color>
+    <color name="save_btn">#490F62</color>
+    <color name="add_btn">#2B003E</color>
+
+
+    <color name="dark_purple">#1c0037</color>
+    <color name="light_green">#9bf542</color>
+    <color name="darker_purple">#2d0052</color>
+    <color name="purple">#9e72d3</color>
+    <color name="progress">#FFE041</color>
+
+
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="teal_200">#03DAC5</color>
+
+    <color name="light_gray">#D3D3D3</color>
+    <color name="blue">#2196F3</color>
+    <color name="max_blue">#2196F3</color>
+    <color name="transparent">#00000000</color>
+    <color name="red">#FF0000</color>
+    <color name="light_blue_50">#FFE1F5FE</color>
+    <color name="light_blue_200">#FF81D4FA</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+
+
+</resources>
